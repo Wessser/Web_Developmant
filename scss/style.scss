@@ -330,7 +330,7 @@ header {
 }
 .services__img {
     margin: 0 0 31px 0;
-    background: url(/img/icons/smartphone.png);
+    background: url(../img/icons/smartphone.png);
 }
 .services__title {
     @include title();
@@ -628,10 +628,10 @@ justify-content: center;
     height: 50px;
     border-radius: 10px;
     background-color: #f1f1f1;
-    background: url(/img/icons/facebook1.png);
+    background: url(../img/icons/facebook1.png);
 }
 .facebook:hover{
-    background: url(/img/icons/hover_fb.png);
+    background: url(../img/icons/hover_fb.png);
 }
 
 .twitter{
@@ -642,10 +642,10 @@ justify-content: center;
     height: 50px;
     border-radius: 10px;
     background-color: #f1f1f1;
-    background: url(/img/icons/twitter1.png)
+    background: url(../img/icons/twitter1.png)
 }
 .twitter:hover{
-    background: url(/img/icons/hover_fb.png)
+    background: url(../img/icons/hover_fb.png)
 }
 
 .message{
@@ -656,11 +656,11 @@ justify-content: center;
     height: 50px;
     border-radius: 10px;
     background-color: #f1f1f1;
-    background: url(/img/icons/message_1.png)
+    background: url(../img/icons/message_1.png)
 }
 
 .message:hover{
-    background: url(/img/icons/hover_fb.png)
+    background: url(../img/icons/hover_fb.png)
 }
 
 .email{
@@ -671,11 +671,11 @@ justify-content: center;
     height: 50px;
     border-radius: 10px;
     background-color: #f1f1f1;
-    background: url(/img/icons/email1.png)
+    background: url(../img/icons/email1.png)
 }
 
 .email:hover{
-    background:url(/img/icons/hover_fb.png)
+    background:url(../img/icons/hover_fb.png)
 }
 .ellipse {
     margin: 125px 4px 0 4px;
@@ -744,7 +744,7 @@ justify-content: center;
     letter-spacing: 0.85px;
     text-align: left;
     color: #212121;
-    background: url(/img/icons/сalendar.png) no-repeat;
+    background: url(../img/icons/сalendar.png) no-repeat;
     padding: 0 40px 32px 30px;
 }
 
@@ -757,7 +757,7 @@ justify-content: center;
     letter-spacing: 0.85px;
     text-align: left;
     color: #212121;
-    background: url(/img/icons/doc.png) no-repeat;
+    background: url(../img/icons/doc.png) no-repeat;
     padding: 0 0 0 30px;
 }
 .blog__text {
@@ -782,7 +782,7 @@ justify-content: center;
     text-align: center;
     min-height: 1254px;
     padding: 128px 0 110px 0;
-    background: url(/img/contact_bg.jpg) center center / cover no-repeat;
+    background: url(../img/contact_bg.jpg) center center / cover no-repeat;
 }
 .contact__header {
     @include h2();
